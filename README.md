@@ -1,4 +1,4 @@
-# Hedgehog-Package-Manager
+# Hedgehog Package Manager
 
 Hedgehog-Package-Manager is the core package manager for Hedgehog Lab. It only contains a single list permanently on Github at
 
@@ -100,7 +100,27 @@ so that students can setup all functions/classes/variables above by adding one l
 ```
 
 And please specify the usage above in the package document. 
+- If any stable version released officially, please remember to add another folder of codes at <code>location/VER_NUMBER</code> with all codes of current version. Also please keep all legacy version of package. This will allow the other package developes or users to choose any older version of your package. Also if you decide to maintain a stable package, please import all dependencies with a specified version number so that the behavior of each function will always keep same. 
 
+For example <code>PackageA 1.0 -> { PackageX version 1.1, PackageY version 1.2}</code>, a good design for MyFunction at PackageA 1.0 should be:
+
+```javascript
+function MyFunction (mat1, mat2, mat3, mat4){
+   *import PackageX version 1.1: f1, f2
+   *import PackageY version 1.2: f3, f4
+   return f1(mat1) + f2(mat2) *  ( f3(mat3) / f4(mat4) );
+}
+
+```
+
+And when the user tries to use <code>{PackageA version 1.0, PackageX version 2.0, PackageY version 3.0}</code> as
+```javascript
+*import PackageA version 1.0 : MyFunction
+*import PackageX version 2.0 : f1, f2
+*import PackageY version 3.0 : f3, f4, f5
+```
+
+so that X and Y packages with different versions will be automatically downloaded inside different scope.
 - Hedgehog Computing reserves the right to remove any package from the JSON list file.
 
 ## How it works
