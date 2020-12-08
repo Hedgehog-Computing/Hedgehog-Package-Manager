@@ -1,0 +1,12 @@
+[
+  {
+    name:"Hedgehog-Standard-Library",
+    alias:"std",
+    location:"https://raw.githubusercontent.com/Hedgehog-Computing/Hedgehog-Standard-Library/main/"
+  },
+  {
+    name:"Hedgehog-Datasets",
+    alias:"Hedgehog-Datasets",
+    location:"https://raw.githubusercontent.com/Hedgehog-Computing/Hedgehog-Datasets/main/"
+  }
+]
