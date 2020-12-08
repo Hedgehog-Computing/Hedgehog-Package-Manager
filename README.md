@@ -121,6 +121,7 @@ And when the user tries to use <code>{PackageA version 1.0, PackageX version 2.0
 ```
 
 so that X and Y packages with different versions will be automatically downloaded inside different scope.
+- Github, Github Gist and Gitlab are all recommended for packages and datasets. You can also develop and maintain your own package server.
 - Hedgehog Computing reserves the right to remove any package from the JSON list file.
 
 ## How it works
