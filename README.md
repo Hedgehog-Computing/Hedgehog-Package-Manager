@@ -16,6 +16,7 @@ For example, you want to use **magic** and **fibonacci** functions defined at **
   "alias":"std",
   "location":"https://raw.githubusercontent.com/Hedgehog-Computing/Hedgehog-Standard-Library/main/",
   "docs":"https://raw.githubusercontent.com/Hedgehog-Computing/Hedgehog-Standard-Library/main/Readme.md",
+  "website": "https://github.com/Hedgehog-Computing/Hedgehog-Standard-Library",
   "author": "lidangzzz"
 }
 ```
