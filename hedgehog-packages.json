@@ -1,12 +1,16 @@
 [
   {
-    name:"Hedgehog-Standard-Library",
-    alias:"std",
-    location:"https://raw.githubusercontent.com/Hedgehog-Computing/Hedgehog-Standard-Library/main/"
+    "name":"Hedgehog-Standard-Library",
+    "alias":"std",
+    "location":"https://raw.githubusercontent.com/Hedgehog-Computing/Hedgehog-Standard-Library/main/",
+    "docs":"https://raw.githubusercontent.com/Hedgehog-Computing/Hedgehog-Standard-Library/main/Readme.md",
+    "author": "lidangzzz"
   },
   {
-    name:"Hedgehog-Datasets",
-    alias:"Hedgehog-Datasets",
-    location:"https://raw.githubusercontent.com/Hedgehog-Computing/Hedgehog-Datasets/main/"
+    "name":"Hedgehog-Datasets",
+    "alias":"Hedgehog-Datasets",
+    "location":"https://raw.githubusercontent.com/Hedgehog-Computing/Hedgehog-Datasets/main/",
+    "docs":"",
+    "author": "lidangzzz"
   }
 ]
