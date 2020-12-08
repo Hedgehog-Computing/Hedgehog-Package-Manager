@@ -56,7 +56,7 @@ function Negative_Magic_Matrix(N){
 
 which will keep the <code>magic(N)</code> function only alive inside the scope of <code>Negative_Magic_Matrix</code> function.
 
-Also you can import and rename any function, for example:
+Also you can import and rename any function/class, for example:
 
 ```javascript
 let chol = *import std : Cholesky_Decomposition
