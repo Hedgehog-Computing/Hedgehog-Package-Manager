@@ -8,7 +8,6 @@
   },
   {
     "name":"Hedgehog-Datasets",
-    "alias":"Hedgehog-Datasets",
     "location":"https://raw.githubusercontent.com/Hedgehog-Computing/Hedgehog-Datasets/main/",
     "docs":"",
     "author": "lidangzzz"
