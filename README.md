@@ -8,7 +8,7 @@ Hedgehog-Package-Manager is the core package manager for Hedgehog Lab. It only c
 
 You can use any libraries on Hedgehog Manager by using keyword <code>*import PACKAGE_NAME : FUNCTION_NAME</code>, which PACKAGE_NAME is the package name defined in the JSON list, and FUNCTION_NAME is the actual function defined in the package.
 
-For example, you want to use **magic** and **fibonacci** functions defined at **Hedgehog-Standard-Library**, which is defined in the JSON list as:
+For example, you want to use **magic** and **fibonacci** functions defined at **Hedgehog-Standard-Library**, and the package **Hedgehog-Standard-Library** is defined in the JSON list as:
 
 ```json
 {
