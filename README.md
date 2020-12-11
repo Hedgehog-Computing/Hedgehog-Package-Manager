@@ -73,8 +73,16 @@ If you want to specify a certain version of package, just add <code>version VER_
 
 Otherwise, the latest code from the location will be downloaded and added.
 
-## For Package/Module/Library Developers
+## For Package Developers
 
+- Each package on Github or on your own server must contains a package description file ```hedgehog-package.json```, including the package name and all the hhs files that can be imported, for example:
+```
+{
+  "name":"Hedgehog-Standard-Library",
+  "includes" : ["magic", "fibonacci"]
+}
+```
+which means user can import ```magic.hhs``` and ```fibonacci.hhs``` files directly by using ```*import NAME: magic, fibonacci```, which means ```magic.hhs``` and ```fibonacci.hhs``` must be valid files at the root of the package.
 - Feel free to add your package into this repo, including the official name, alias and location. It allows users to import your libraries and modules conveniently.
 - Please do NOT add malicious codes into your library, such as data theft, back doors, uploading privacy information, cryptocurrency mining or other harmful scripts.
 - Please make sure that there aren't any other packages existing that are using your name or alias as names or aliases before submitting pull requests.
