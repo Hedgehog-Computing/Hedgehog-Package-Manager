@@ -16,4 +16,12 @@
     "author": "lidangzzz",
     "description": "A collection of datasets for Hedgehog Lab users"
   }
+  {
+    "name":"Hedgehog-Network",
+    "location":"https://raw.githubusercontent.com/Hedgehog-Computing/Hedgehog-Network/main/",
+    "docs":"https://github.com/Hedgehog-Computing",
+    "website": "https://github.com/Hedgehog-Computing",
+    "author": "lidangzzz",
+    "description": "A collection of network graph algorithms"
+  }
 ]
