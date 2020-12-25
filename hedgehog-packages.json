@@ -15,7 +15,7 @@
     "website": "https://github.com/Hedgehog-Computing/Hedgehog-Datasets",
     "author": "lidangzzz",
     "description": "A collection of datasets for Hedgehog Lab users"
-  }
+  },
   {
     "name":"Hedgehog-Network",
     "location":"https://raw.githubusercontent.com/Hedgehog-Computing/Hedgehog-Network/main/",
