@@ -24,4 +24,15 @@
     "author": "lidangzzz",
     "description": "A collection of network graph algorithms"
   }
+  {
+    "name":"HLAlgebra",
+    "location":"https://raw.githubusercontent.com/Gaoooooo/HLAlgebra/main/",
+    "docs":"",
+    "website": "https://github.com/Gaoooooo/HLAlgebra",
+    "author": "Gaoooooo",
+    "description": "A collection for linear algebra and machine learning algorithms"
+}
+  
+  
+  
 ]
