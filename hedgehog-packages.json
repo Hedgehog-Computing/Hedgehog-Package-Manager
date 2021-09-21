@@ -40,6 +40,14 @@
     "website": "https://github.com/Hedgehog-Computing/Hedgehog-Linear-Algebra",
     "author": "Jason Reynolds",
     "description": "A collection for linear algebra algorithms"
-  }
+  },
+  {
+  "name":"Test-Package",
+  "location":"https://raw.githubusercontent.com/Hedgehog-Computing/Test-Package/main/",
+  "docs":"",
+  "website": "https://github.com/Hedgehog-Computing/Test-Package",
+  "author": "lidangzzz",
+  "description": "A test package"
+}
 
 ]
