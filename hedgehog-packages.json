@@ -34,7 +34,7 @@
   },
   {
   "name":"LinearAlgebra",
-  "alias":"la"
+  "alias":"la",
   "location":"https://raw.githubusercontent.com/Hedgehog-Computing/Hedgehog-Linear-Algebra/main/",
   "docs":"",
   "website": "https://github.com/Hedgehog-Computing/Hedgehog-Linear-Algebra",
