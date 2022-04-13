@@ -42,12 +42,21 @@
     "description": "A collection for linear algebra algorithms"
   },
   {
-  "name":"Test-Package",
-  "location":"https://raw.githubusercontent.com/Hedgehog-Computing/Test-Package/main/",
-  "docs":"",
-  "website": "https://github.com/Hedgehog-Computing/Test-Package",
-  "author": "lidangzzz",
-  "description": "A test package"
-}
+    "name":"Test-Package",
+    "location":"https://raw.githubusercontent.com/Hedgehog-Computing/Test-Package/main/",
+    "docs":"",
+    "website": "https://github.com/Hedgehog-Computing/Test-Package",
+    "author": "lidangzzz",
+    "description": "A test package"
+  },
+  {
+    "name":"math",
+    "location":"https://raw.githubusercontent.com/Hedgehog-Computing/math/main/",
+    "docs":"",
+    "website": "",
+    "author": "",
+    "description": "Math package for Hedgehog Lab"
+  }
+
 
 ]
