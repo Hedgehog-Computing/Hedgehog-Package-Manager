@@ -56,6 +56,14 @@
     "website": "",
     "author": "",
     "description": "Math package for Hedgehog Lab"
+  },
+  {
+    "name":"EDUC412",
+    "location":"https://raw.githubusercontent.com/Hedgehog-Computing/EDUC412/main/",
+    "docs":"",
+    "website": "",
+    "author": "",
+    "description": "EDUC412"
   }
 
 
