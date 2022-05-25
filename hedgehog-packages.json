@@ -25,23 +25,6 @@
     "description": "A collection of network graph algorithms"
   },
   {
-    "name":"HLAlgebra",
-    "location":"https://raw.githubusercontent.com/Gaoooooo/HLAlgebra/main/",
-    "docs":"",
-    "website": "https://github.com/Gaoooooo/HLAlgebra",
-    "author": "Gaoooooo",
-    "description": "A collection for linear algebra and machine learning algorithms"
-  },
-  {
-    "name":"LinearAlgebra",
-    "alias":"la",
-    "location":"https://raw.githubusercontent.com/Hedgehog-Computing/Hedgehog-Linear-Algebra/main/",
-    "docs":"",
-    "website": "https://github.com/Hedgehog-Computing/Hedgehog-Linear-Algebra",
-    "author": "Jason Reynolds",
-    "description": "A collection for linear algebra algorithms"
-  },
-  {
     "name":"Test-Package",
     "location":"https://raw.githubusercontent.com/Hedgehog-Computing/Test-Package/main/",
     "docs":"",
@@ -56,6 +39,14 @@
     "website": "",
     "author": "",
     "description": "Math package for Hedgehog Lab"
+  },
+  {
+    "name":"plot",
+    "location":"https://raw.githubusercontent.com/Hedgehog-Computing/plot/main/",
+    "docs":"",
+    "website": "",
+    "author": "",
+    "description": "Plot package for Hedgehog Lab"
   },
   {
     "name":"EDUC412",
